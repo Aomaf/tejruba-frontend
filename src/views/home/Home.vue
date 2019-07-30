@@ -13,7 +13,7 @@
             <v-img src="https://images.unsplash.com/photo-1563714272638-882a6309ba7d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" aspect-ratio="2.75">
               <v-layout justify-start>
                 <v-avatar class="box-shadow pa-3 ma-2" size="40" color="gray">
-                  <img class="elevation-15" src="../../assets/img/avatar.png" alt="alt">
+                  <img class="elevation-15" src="../../assets/avatar.png" alt="alt">
                 </v-avatar>
               </v-layout>
             </v-img>
@@ -24,13 +24,13 @@
               </div>
             </v-card-title>
             <v-card-text class="pt-2">
-              <p class="post-text text-xs-right mb-0"> خمس اسطر تحتوي على نص مقصوصمن الاصلي الذي يتحدث فيه الكاتب عن
+              <p class="post-text text-xs-right mb-0 body-2"> خمس اسطر تحتوي على نص مقصوصمن الاصلي الذي يتحدث فيه الكاتب عن
                 هذا الموضوع حيث ينقل تجربته للعامه للاستفاده منها خمس اسطر تحتوي على نص مقصوصمن الاصلي الذي يتحدث فيه
                 الكاتب عن هذا الموضوع </p>
             </v-card-text>
             <v-divider></v-divider>
             <v-layout row align-center class="py-0">
-              <v-flex class="text-xs-right">
+              <v-flex class="text-xs-right caption">
                 <span class="mx-3"><span>5</span> تعليقات</span>
                 <span><span>4</span> الاعجاب</span>
               </v-flex>
